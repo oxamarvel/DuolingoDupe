@@ -7,11 +7,11 @@
 
 import SwiftUI
 
-@main
+@main 
 struct DuolingoDupeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GettingStartedView()
         }
     }
 }
